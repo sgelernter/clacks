@@ -49,3 +49,4 @@ I probably would have picked a less complex tool to build for a take-home assess
     - Making the parsed directions a bit more legible
     - Allowing the user to disambiguate locations when more than one result seems likely
     - Presenting options for routes (currently the first route suggested for public transit is what gets returned)
+    - Retrieving an image of the proposed route for further context
