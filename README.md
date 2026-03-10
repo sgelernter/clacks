@@ -33,7 +33,7 @@ I tested it with my personal email and cell phone. It works great!
 
 **Did you use AI-assisted coding tools (Copilot, ChatGPT, Claude Code, Amp, etc.) to write this? Why or why not, and how did it affect your workflow?**
 
-I did not. This is a project I've been thinking about building for a long time, ever since I started tinkering around with the SMTP and email capabilities within python. 
+I did not. This is a project I've been thinking about building for a long time, ever since I started tinkering around with the SMTP and email capabilities within python, and since there weren't any hard deadlines I didn't feel any pressure to offload code writing duties to an LLM-based tool. Whenever time allows I prefer to design and write my own programs, because I feel that deferring that decision-making to the LLM generally means I have a less robust understanding of the code I'm generating, and especially for a tool I'm submitting as part of a potential interview process it seemed like my priority should be in displaying my own work rather than my ability to curate and wrangle auto-generated code. That said, I did refer to a medium post I found on how to efficiently parse information retrieved with python's `email` tools, primarily for time purposes.  
 
 **What would you do differently, or what would you build next given more time?**
 
